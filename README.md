@@ -2,7 +2,7 @@
 
 # Zenga Sans
 
-Rethink Sans was designed in 2023 for Rethink by Hans Thiessen in collaboration with the fine folks at Google Fonts. A humble open source font built on the shoulders of DM Sans and Poppins, Rethink Sans was thoughtfully turbocharged to help everyone design in Google Workspace with greater confidence and craft.
+Zenga Sans is based on Rethink Sans. Rethink Sans was designed in 2023 for Rethink by Hans Thiessen in collaboration with the fine folks at Google Fonts. A humble open source font built on the shoulders of DM Sans and Poppins, Rethink Sans was thoughtfully turbocharged to help everyone design in Google Workspace with greater confidence and craft.
 
 Deceptively simple, Rethink Sans' features include : size specific tracking, tabular lining figures, and OpenType for everyone.
 
@@ -25,7 +25,7 @@ Deceptively simple, Rethink Sans' features include : size specific tracking, tab
 
 Rethink is one of the largest global independent creative agencies. Founded in Vancouver in 1999, it now has offices in New York, Toronto, Vancouver, and Montréal.
 
-To learn more about Rethink, visit [rethinkideas.com](https://rethinkideas.com)
+To learn more about Zenga, visit [zenga.hu](https://zenga.hu)
 
 
 ## Authors
